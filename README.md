@@ -1,2 +1,1 @@
-# Impact-Evaluation-Methodologies
-упрощает [действие] и [действие]
+включает в себя драйверы для MySQL и PostgreSQL
